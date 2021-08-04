@@ -7,7 +7,10 @@
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I enjoy learning every kind of stuff :).
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I love sports, actually I have practiced   3 disciplines, which are: 
+    Soccer
+    Football 
+    and Basketball.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
