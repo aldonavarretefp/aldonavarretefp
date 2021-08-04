@@ -7,10 +7,18 @@
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I enjoy learning every kind of stuff :).
-- 👯 I love sports, actually I have practiced   3 disciplines, which are: 
-    Soccer
-    Football 
-    and Basketball.
+- 🏈 I love sports, actually I have practiced   3 disciplines, which are: 
+<ul>
+    <li>
+       ⚽ Soccer
+    </li>
+    <li>
+        🏈 Football
+    </li>
+    <li>
+        🏀 Basketball
+    </li>
+</ul>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
