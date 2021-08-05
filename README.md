@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Aldo Navarrete | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,8 +29,7 @@
 
 <br>
 
-### Skills:
-#### Web:
+## Skills:
 ##### Front-End:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -45,7 +44,7 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
-<br><br/>
+
 <hr><hr/>
 
 ### Libraries / Frameworks:
@@ -53,6 +52,7 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 
+<hr><hr/>
 
 ### Other Technologies:
 
