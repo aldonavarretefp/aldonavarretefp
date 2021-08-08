@@ -1,4 +1,4 @@
-# I am glad to see you here, I am Aldo 👋
+# I am glad to see you here, my name is Aldo 👋, and I am from Mexico güey! 🇲🇽
 
 ## I'm a Developer, Enthusiastic, and Friendly Person :)
 
