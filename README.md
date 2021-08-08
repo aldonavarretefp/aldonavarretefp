@@ -52,7 +52,7 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 <br><br/>
-<hr><hr/>
+
 
 ### Other Technologies:
 
